@@ -1,0 +1,2 @@
+# hyperion-dev-L1-capstone-IV
+A stock-taking and inventory management program for Nike warehouses that reads a text file and allows the user to perform a range of functions on 'Shoe' objects generated from  the file. These functions include searching for a product by  code (search_shoe), determining the product with the lowest quantity and restocking it (re_stock), determining the product with the highest quantity (highest_qty) and calculating the  value of each item entry, based on the quantity and cost of the item (value_per_item).
