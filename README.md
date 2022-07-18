@@ -48,7 +48,6 @@ lowest quantity shoe by a certain amount.
 
 If the user selects 's', allows the user to search for a shoe by its product code.
 
-
 ### Value Per Shoe
 
 If the user selects 'vps', allows the user to see the value per shoe, calculated
