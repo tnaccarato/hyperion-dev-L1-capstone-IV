@@ -6,15 +6,15 @@ A stock-taking and inventory management program for Nike warehouses that reads a
 
 The following menu is shown to the user:
 
-re -  Read data from inventory.txt file and save it to an inventory list\n
-a -   Add a new shoe to the inventory list\n
-v -   View data about every shoe in the inventory list\n
-rs -  Restock the lowest quantity shoe in the inventory list\n
-s -   Search for a shoe by product code\n
-vps - Show the value per shoe (cost*quantity) for each shoe in the inventory \
-list\n
-h -   Print an \'on sale\' notice for the product with the highest quantity\n
-q -   Quit the program\n
+re -  Read data from inventory.txt file and save it to an inventory list\
+a -   Add a new shoe to the inventory list\
+v -   View data about every shoe in the inventory list\
+rs -  Restock the lowest quantity shoe in the inventory list\
+s -   Search for a shoe by product code\
+vps - Show the value per shoe (cost*quantity) for each shoe in the inventory
+list\
+h -   Print an \'on sale\' notice for the product with the highest quantity\
+q -   Quit the program\
 
 ## Functions
 
